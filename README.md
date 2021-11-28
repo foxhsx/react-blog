@@ -1,2 +1,2 @@
-# react-bloh
+# react-blog
 a react blog
