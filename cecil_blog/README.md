@@ -11,8 +11,11 @@ todo: 服务端渲染 Next.js
 2. 后台 Node + express + Mysql
 3. 博客模版
    https://vuepress-theme-reco.recoluan.com/views/other/theme-example.html
+
    https://d.umijs.org/zh-CN/guide
+
    https://docusaurus.io/zh-CN/docs
+
    https://jamstack.org/generators/--可以查看所有的静态站点生成器
 
 目录划分
