@@ -24,3 +24,12 @@
 4. TIP 组件
 5. 标题组件
 6. 详情页面作者、时间、标签、分类、阅读次数
+
+### 项目目录划分
+
+-src
+-components
+-views
+-service
+-utils
+-models
