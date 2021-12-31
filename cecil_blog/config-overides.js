@@ -3,7 +3,6 @@ const {
   addDecoratorsLegacy,
   addBundleVisualizer,
   addWebpackAlias,
-  adjustWorkbox,
   addWebpackResolve,
 } = require("customize-cra");
 const path = require("path");
